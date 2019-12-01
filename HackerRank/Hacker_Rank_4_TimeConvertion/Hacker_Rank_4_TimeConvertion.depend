@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574884973 source:f:\fac\embeded system\c programming_codeblocks\hacker_rank_problems\hacker_rank_4_timeconvertion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

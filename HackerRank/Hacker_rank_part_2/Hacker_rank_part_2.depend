@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574281932 source:f:\fac\embeded system\c programming_codeblocks\hacker_rank_problems\hacker_rank_part_2\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
